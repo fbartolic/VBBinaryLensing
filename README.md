@@ -19,7 +19,7 @@ The package contains the following files:
 - `VBBinaryLensingLibrary.h` // Header for the library
 - `VBBinaryLensingLibrary.cpp` // Source code for the library
 - `ESPL.tbl` // Pre-calculated table for Extended-source-point-lens
-- `makefile.dat` // A sample makefile (kindly provided by Wei Zhu)
+- `Makefile` // A sample makefile for compiling the library
 - `OB151212coords.txt` // Sample file with event coordinates
 - `satellite1.txt` // Sample table for satellite position (Spitzer)
 - `satellite2.txt` // Sample table for satellite position (Kepler)
