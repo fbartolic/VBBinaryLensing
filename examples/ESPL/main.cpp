@@ -5,7 +5,7 @@
 int main()
 {
 
-// Declaration of an instance to VBBinaryLensing class. 
+    // Declaration of an instance to VBBinaryLensing class. 
 	VBBinaryLensing VBBL;
 
     // Extended-source-point-lens
