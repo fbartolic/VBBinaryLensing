@@ -92,10 +92,11 @@ class BuildExt(build_ext):
 setup(
     name='pyVBB',
     version=__version__,
-    author='Sylvain Corlay',
-    author_email='sylvain.corlay@gmail.com',
+    author='Valerio Bozza, Fran Bartolić, Etienne Bachelet',
+    author_email='valboz@sa.infn.it, fb90@st-andrews.ac.uk, ebachelet@lco.global',
     url='https://github.com/pybind/python_example',
-    description='A test project using pybind11',
+    description='Python wrapper of the VBBinaryLensingLibrary code for \
+            computing microlensing light curves.',
     long_description='',
     ext_modules=ext_modules,
     install_requires=['pybind11>=2.2'],
